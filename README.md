@@ -1,1 +1,1 @@
-# Practicing guthub
+# Practicing github
