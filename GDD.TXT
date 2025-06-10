@@ -1,0 +1,73 @@
+Easy access
+You never get a second chance to make a good first impression, and the same can be said about your games. The first couple of minutes can be the determining factor for your game’s success. That’s why the onboarding of your game is a very important part to focus on. And we have some tips to help you.
+
+File size and loading
+Let’s start with the technical stuff. Making sure your game loads fast and runs well is the first step towards an easily accessible game. Below, you’ll find some best practices for games on Poki.
+
+Keep it small
+Web games are playable on all types of devices. This is great, but also means that some players might be playing on older devices or slower internet connections than others. To make sure all players can play your game - try to keep your game’s file size as small as possible. Around 8 to 10MB is the size to aim for!
+
+For tips or guides on file compression and size reduction for your engine of choice, have a look at these links:
+
+Unity
+Godot
+Construct 3
+Defold
+GameMaker
+PixiJS
+PlayCanvas
+Stencyl
+ThreeJS
+Loading screens
+A loading bar is the perfect way to give the player a sense of progression while the game is getting ready. Especially visually engaging loading screen that feature the logo or some visuals of your game will help prevent any early drop-offs by players mistaking the game as frozen or broken.
+
+loading example
+Progressive loading
+Another way to speed up the loading times of your game is through progressive loading. This is a technique where only the most necessary files (main menu, tutorial level, first stage, etc.) are downloaded when the game starts. While the player is in this part of the game, the game downloads the remaining files in the background. This may sound like a gimmick, but we promise it’sone of the most important topics for success on the web. The amount of players who drop off during loading shouldn’t be underestimated. Watch our colleague Kasper Mol’s presentation on this topic.
+
+
+Onboarding
+Now that we’ve got our loading and technical set-up all optimised, let’s have a look at the game! Below, we’ll share some tips about how to start your game off right:
+
+Skip the menu
+Make sure your game starts up fast. The faster that players get to experience all the cool things your game has to offer, the better! For first-time players, it’s especially important to skip splash screens, title screens, and level selects. Let them jump right into the good part!
+
+Monkey Mart is a great example of a fast onboarding approach!
+
+screenshot of Monkey Mart
+A safe beginner environment
+Whenever you begin playing a new game - it can be difficult to get started. So it’s nice to give the player an easy time learning what your game is all about! Start off with some simpler levels that players will easily finish and scale the difficulty from there. That way, players will get the feeling they’re able to win, which will help them stay engaged with your game.
+
+In Subway Surfers, players can’t die while they’re moving through the onboarding. Instead, they get the chance to go back and try again until they get it right!
+
+screenshot of Subway Surfers
+Tutorials
+Now that the player is in the game, we have to show them the ropes and help them get the hang of things. A good tutorial explains to the player how the mechanics work in a way that feels natural, teaching them what the game is about without blocking the gameplay. Here are some tips to make your tutorial helpful and snappy!
+
+Explain the game with visuals
+Text can be very useful to explain something, but it can also complicate things. For example, large amounts of text can be intimidating to players. Texts in English might also be hard to understand for non-English speaking players. If you’re explaining something in your game, try using images, animations or gestures to point things out. As they say, an image says more than a thousand words!
+
+Blumgi Slime has a great example of a visual tutorial!
+
+screenshot of Blumgi Slime
+Gradual introduction
+Gradually showing players the actions or buttons they will need over the course of a couple of levels can also help ease players into a game. This reduces ‘frontal load’ which is where players are shown everything they could possibly need to know about a game straight away. This often makes players feel overwhelmed and leads to them ending their play session.
+
+Heart Star is a good example of how a gradual introduction can work!
+
+screenshot of Heart Star
+Mobile first!
+A big part of all gameplays on Poki are now on mobile. Therefore, it’s important to consider your game’s mobile compatibility early in your development process.
+
+Portrait vs. Landscape
+On Poki, we can display your game in Landscape mode only, Portrait mode only or make it so that the game is playable in both orientations.
+
+However, while all orientations are possible, we do strongly advise for your game to be playable on Portrait specifically.
+
+Games that are playable on Portrait see 6% more players enter gameplay on average. The more players get into gameplay, the better it is for the performance of your game!
+
+Having your game be playable in Portrait also makes it eligible for Gamebar Display ads - an ad format available on mobile. These ads play in the title bar of your game and are implemented automatically. With these ads - which are only available in Portrait mode - your game can earn more without extra effort!
+
+screenshot of Monkey Mart on mobile
+Test it!
+With these tips in mind, it’s time to playtest your new onboarding! Poki Playtest recordings let you see exactly how players are moving through the early parts of your game. By watching how they play, you can fine-tune the onboarding to ensure the game kicks off smooth and fast!
