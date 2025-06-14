@@ -1,0 +1,43 @@
+h1 {
+    color:red;
+    font-family: monospace;}
+p {color:blue;}
+address {color:green;}
+/* This is a comment */
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+div {color:green;
+  font-size: 16px;
+  font-weight: bold;
+    background-color: yellow;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    margin: 20px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    text-align: center;
+}
